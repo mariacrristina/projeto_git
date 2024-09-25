@@ -23,5 +23,3 @@ git checkout
 git merge
 git fetch
 git reset --HARD
-
-

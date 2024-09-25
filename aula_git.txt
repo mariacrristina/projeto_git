@@ -5,3 +5,8 @@ teste para salvar
 Segundo teste com atalho 
 
 end
+Teste para git em aula 
+
+Configuraçao de Vs com Git 
+
+teste 123
