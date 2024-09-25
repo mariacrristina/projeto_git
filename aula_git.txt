@@ -1,3 +1,7 @@
 Dev em construçao 
 
+Teste para git em aula 
 
+Configuraçao de Vs com Git 
+
+teste 123
